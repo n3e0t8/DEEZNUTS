@@ -1,0 +1,26 @@
+#resumetitle {
+    font-size: 60px;
+    font-style: oblique;
+    text-align: center;
+    color: white;
+}
+
+.myinfotitle {
+    border: 2px gray solid;
+    padding: 25px 100px;
+    text-align: center;
+    color:white;
+    font-size: 60px;
+    background-color: gray;
+    margin: 50px;
+    width: 500px;
+    height: 900px;
+}
+
+.bighi {
+    font-size: 64px;
+}
+
+#imgpos {
+    border: 5px rgb(111, 173, 231) solid;
+}
